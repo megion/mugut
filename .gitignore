@@ -8,6 +8,7 @@ lib-cov
 *.gz
 *.md.html
 *.iml
+.DS_Store
 
 #Sublime
 Flo.sublime-workspace
